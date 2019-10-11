@@ -7,7 +7,7 @@ keywords: Arjun, Teotia, Smoking, Youth, Tobacco, Cigarette tax, youth use of to
 
 Arjun Teotia is a PhD candidate at Georgia State University. His research interests include health economics and econometrics.
 
-[curriculum vitae ![CV as pdf](/Users/arjunteotia/Library/Mobile Documents/com~apple~CloudDocs/website/simple_academic_website/pages/icons16/pdf-icon.png)]("/Users/arjunteotia/Library/Mobile Documents/com~apple~CloudDocs/website/simple_academic_website//assets/CV.pdf")<br/>
+[curriculum vitae ![CV as pdf](/Users/arjunteotia/Library/Mobile Documents/com~apple~CloudDocs/website/simple_academic_website/pages/icons16/pdf-icon.png)](/Users/arjunteotia/Library/Mobile Documents/com~apple~CloudDocs/website/simple_academic_website/assets/CV.pdf)<br/>
 
 
 ---
