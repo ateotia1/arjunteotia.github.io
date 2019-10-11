@@ -34,6 +34,7 @@ Arjun Teotia is a PhD candidate at Georgia State University. His research intere
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)">cv</a></li>
+          <a href="arjunteotia.github.io/AT_cv_sep28_2019.pdf" target="_blank">PDF.</a>
           <li><a href="https://github.com/ateotia1">GitHub</a></li>
           <li><a href="https://twitter.com/arjunteotia">Twitter (@arjunteotia)</a></li>
       </ul>
