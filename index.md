@@ -23,8 +23,8 @@ Arjun Teotia is a PhD candidate at Georgia State University. His research intere
         </div>
 
         <div class="span2">
-        <a href="/assets/headshot.jpg">
-            <img src="/assets/headshot.jpg"
+        <a href="../assets/headshot.JPG">
+            <img src="../assets/headshot.JPG"
                   title="Arjun Teotia" alt="Arjun Teotia"/></a>
         </div>
     </div>
